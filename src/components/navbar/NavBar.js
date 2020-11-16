@@ -12,7 +12,7 @@ function NavBar(props){
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <Link className="navbar-brand" exact to="/">Hidden brand</Link>
+      <Link className="navbar-brand" exact to="/">Covid App</Link>
       <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
         <li className="nav-item active">
           <Link className="nav-link" exact to="/">Home <span className="sr-only">(current)</span></Link>
